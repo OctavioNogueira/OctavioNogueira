@@ -1,8 +1,8 @@
 Algoritmo "exe2_voto"
-// Disciplina   : [Linguagem e Lógica de Programação]
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Hiram Amaral
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Octávio Nogueira
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
+// Autor(a)    : OctÃ¡vio Nogueira
 // Data atual  : 31/03/2022
 
 //    0-15 nao vota
@@ -10,12 +10,12 @@ Algoritmo "exe2_voto"
 //    18-69 voto obrigatorio
 //    70... voto opcional
 Var
-// Seção de Declarações das variáveis
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
    idade: inteiro
 
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
     escreva("Por gentileza, digite sua idade: ")
     leia(idade)
 
