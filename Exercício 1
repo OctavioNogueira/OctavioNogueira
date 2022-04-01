@@ -1,8 +1,8 @@
 Algoritmo "idade"
-// Disciplina   : [Linguagem e LÛgica de ProgramaÁ„o]
+// Disciplina   : [Linguagem e L√≥gica de Programa√ß√£o]
 // Professor   : Hiram Amaral
-// DescriÁ„o   : Idade
-// Autor(a)    : Oct·vio
+// Descri√ß√£o   : Idade
+// Autor(a)    : Oct√°vio
 // Data atual  : 29/03/2022
 Var
    nome,  r1, : caractere
@@ -20,13 +20,13 @@ Inicio
     Escreval("Ano atual:")
    leia(ano_at)
    
-    Escreval("vocÍ j· fez anivers·rio?")
+    Escreval("voc√™ j√° fez anivers√°rio?")
    leia(r1)
-   se r1 = "sim" ent„o
+   se r1 = "sim" ent√£o
    
-      Escreval("sua idade È: ", ano_at - dt_ns )
+      Escreval("sua idade √©: ", ano_at - dt_ns )
 
-      escreval("sua idade È: ", ano_at - dt_ns - 1)
+      escreval("sua idade √©: ", ano_at - dt_ns - 1)
       
 
    fimse
