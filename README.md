@@ -1,7 +1,7 @@
 
 ### Hello Everyone , I'm Octavio Nogueira 👨🏻‍💻😁
 
-Final-year Computer Science student, currently working as a Test Engineering Assistant at Grupo Multi, with experience in hardware and software testing. I am seeking to enhance my knowledge in Python, SAP (ABAP and S/4 Hana), and its alternatives, as well as having experience in Power BI, ETL, and SQL Server."
+Final-year Computer Science student, currently working as a Test Engineering Assistant at Grupo Multi, with experience in hardware and software testing. I am seeking to enhance my knowledge in Python and QA.
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/octavionogueira/)
